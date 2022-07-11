@@ -1,0 +1,21 @@
+Acions:
+1.btn hotel classiga qarab bo'ladi yani(luxuary, bussines, 3star, 5-star va hokazo)
+2.catalogue btn (bosilganda full info chiqadi hotel haqida,rasmi bilan)
+3.Qo'shimcha! Agar Qila o'lsak booking boshlanish ikkita punkt info beradi holos
+
+Functions:
+1./start : hi username and little info about bot
+2./help : selection of hotel type (luxuary,1star and so on)
+3.4 button : Luxuary, bussines, 4-star, 5-star
+4.Models of hotel types for special choose
+
+Extra :
+Booking Functions
+1.Ask user tel-num
+2.Ask user fullname
+3.Choose hotel id
+4.Result 
+
+
+
+
